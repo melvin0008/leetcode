@@ -2,7 +2,7 @@ import java.util.*;
 import java.util.Arrays;
 public class Quicksort{
 	public static void main(String[] args){
-		int[] x = { 9, 2, 4, 7, 3, 7, 10 };
+		int[] x = {8,5,7,6,2,4,1,3,9 };
 		System.out.println(Arrays.toString(x));
  
 		int low = 0;
